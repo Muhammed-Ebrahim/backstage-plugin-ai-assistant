@@ -1,5 +1,11 @@
 # @sweetoburrito/backstage-plugin-ai-assistant
 
+## 0.15.0
+
+### Minor Changes
+
+- ac658d2: Improve conversation experience by refining message rendering and interaction behavior in the AI Assistant UI.
+
 ## 0.14.0
 
 ### Minor Changes
